@@ -5,4 +5,4 @@
 #3. Actually put the mkl driver on github.
 
 git clone http://github.com/tlrmchlsmth/momms
-git clone http://github.com/tlrmchlsmth/mkl_rust_driver
+git clone http://github.com/tlrmchlsmth/blas_gemm_rust_driver
